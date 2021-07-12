@@ -4,7 +4,7 @@ Homepage
 
 <hr>
 <p align="center">
-  <img alt="home" src="https://vercel.com/3a3f061d-a69f-41ad-a4a0-772f31811568" width="70%">
+  <img alt="home" src="blob:https://vercel.com/3a3f061d-a69f-41ad-a4a0-772f31811568" width="70%">
 </p>
 
 <hr>
